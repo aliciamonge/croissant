@@ -1,0 +1,9 @@
+body {
+  max-width: 50%;
+  text-align: center;
+  background-color: #fdbde8;
+  margin: 0 auto;
+}
+a {
+  margin: 10px;
+}
