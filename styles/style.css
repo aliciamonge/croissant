@@ -1,9 +1,13 @@
 body {
   max-width: 50%;
   text-align: center;
-  background-color: #fdbde8;
+  background-color: #f0c492;
   margin: 0 auto;
 }
 a {
   margin: 10px;
+}
+img {
+  border-radius: 10px;
+  width: 100%;
 }
